@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animali</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="immagine">immagine</string>
+    <string name="verso">verso</string>
+    <string name="nome">nome</string>
+</resources>
